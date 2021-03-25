@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Fylo-data/static/css/main.14960f09.chunk.css",
+    "main.js": "/Fylo-data/static/js/main.a4f581c5.chunk.js",
+    "main.js.map": "/Fylo-data/static/js/main.a4f581c5.chunk.js.map",
+    "runtime-main.js": "/Fylo-data/static/js/runtime-main.4fe65467.js",
+    "runtime-main.js.map": "/Fylo-data/static/js/runtime-main.4fe65467.js.map",
+    "static/js/2.14de2471.chunk.js": "/Fylo-data/static/js/2.14de2471.chunk.js",
+    "static/js/2.14de2471.chunk.js.map": "/Fylo-data/static/js/2.14de2471.chunk.js.map",
+    "index.html": "/Fylo-data/index.html",
+    "static/css/main.14960f09.chunk.css.map": "/Fylo-data/static/css/main.14960f09.chunk.css.map",
+    "static/js/2.14de2471.chunk.js.LICENSE.txt": "/Fylo-data/static/js/2.14de2471.chunk.js.LICENSE.txt",
+    "static/media/App.scss": "/Fylo-data/static/media/bg-mobile.3da1358c.png",
+    "static/media/logo.83cddb0c.svg": "/Fylo-data/static/media/logo.83cddb0c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4fe65467.js",
+    "static/js/2.14de2471.chunk.js",
+    "static/css/main.14960f09.chunk.css",
+    "static/js/main.a4f581c5.chunk.js"
+  ]
+}
